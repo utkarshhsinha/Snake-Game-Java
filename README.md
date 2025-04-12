@@ -2,8 +2,6 @@
 
 This is a classic Snake Game built using Java Swing and AWT. It showcases core Java concepts like OOP, interfaces, abstract classes, and exception handling.
 
----
-
 ## 🎮 Features
 
 - Interactive snake gameplay
@@ -12,22 +10,11 @@ This is a classic Snake Game built using Java Swing and AWT. It showcases core J
 - Abstract classes and interfaces used
 - Exception handling for stable execution
 
----
-
 ## 🛠️ Tech Stack
 
 - **Language**: Java
 - **GUI**: Java Swing, AWT
 - **Concepts**: OOP, Interfaces, Abstract Classes, Exception Handling
-
----
-
-## 📁 Project Structure
-
-Snake-Game-Java/ ├── src/ │ └── snakegame/ │ ├── Board.java │ └── SnakeGame.java ├── nbproject/ │ ├── build-impl.xml │ ├── genfiles.properties │ ├── project.properties │ ├── project.xml │ ├── private/ │ │ ├── private.properties │ │ └── private.xml ├── build.xml ├── dist/ │ └── README.TXT ├── manifest.mf
-
-
----
 
 ## 🚀 How to Run
 
@@ -35,16 +22,12 @@ Snake-Game-Java/ ├── src/ │ └── snakegame/ │ ├── Board.jav
 2. Make sure JDK is installed and configured.
 3. Run `SnakeGame.java` to start the game.
 
----
-
 ## 📚 Learning Outcome
 
 This project helped in applying:
 - Java GUI design
 - Object-Oriented Programming
 - Clean coding practices
-
----
 
 ## 👨‍💻 Author
 
