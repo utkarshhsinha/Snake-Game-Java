@@ -32,4 +32,4 @@ This project helped in applying:
 ## 👨‍💻 Author
 
 Utkarsh Sinha  
-[GitHub](https://github.com/utkarshshinha)
+[GitHub](https://github.com/utkarshhsinha)
